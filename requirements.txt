@@ -1,0 +1,41 @@
+# ============================================================
+# Dependências do Projeto: Detecção de Anomalias em Transações
+# ============================================================
+# Ambiente recomendado: Python 3.10+
+# Instale com: pip install -r requirements.txt
+# ============================================================
+
+# --- Manipulação de Dados ---
+numpy>=1.24.0
+pandas>=2.0.0
+
+# --- Machine Learning ---
+scikit-learn>=1.3.0
+
+# --- Gradient Boosting ---
+xgboost>=2.0.0
+
+# --- Balanceamento de Classes ---
+imbalanced-learn>=0.11.0
+
+# --- Deep Learning ---
+tensorflow>=2.13.0
+
+# --- Explicabilidade ---
+shap>=0.42.0
+
+# --- Visualização ---
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# --- Jupyter / Notebooks ---
+jupyter>=1.0.0
+ipywidgets>=8.0.0
+
+# --- Testes ---
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# --- Utilitários ---
+joblib>=1.3.0
