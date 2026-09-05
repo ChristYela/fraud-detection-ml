@@ -83,7 +83,7 @@ Este projeto demonstra um pipeline completo de **detecção de anomalias em tran
 
 Clique no badge abaixo para abrir o notebook diretamente no Google Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/fraud-detection-ml/blob/main/notebooks/fraud_detection_pipeline.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ChristYela/fraud-detection-ml/blob/main/notebooks/fraud_detection_pipeline.ipynb)
 
 > Substitua `SEU_USUARIO` pelo seu nome de usuário no GitHub.
 
